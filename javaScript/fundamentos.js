@@ -16,6 +16,25 @@ console.log(numero1)
 console.log(numero2) */
 
 "use strict"
-
+/* 
 let numero1 = 1
 console.log(numero1)
+ */
+
+
+// if (true) {
+//     console.log("Se cumplen la condición")
+// }
+
+const perfil = "profesor"
+switch (perfil) {
+    case "estudiante":
+        console.log("eres un estudiante")
+        break;
+    case "profesor":
+        console.log("eres un profesor")
+        break;    
+    default:
+        console.log("perfil no permitido")
+        break;
+}
