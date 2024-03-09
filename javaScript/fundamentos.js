@@ -26,7 +26,7 @@ console.log(numero1)
 //     console.log("Se cumplen la condición")
 // }
 
-const perfil = "profesor"
+/* const perfil = "profesor"
 switch (perfil) {
     case "estudiante":
         console.log("eres un estudiante")
@@ -37,4 +37,4 @@ switch (perfil) {
     default:
         console.log("perfil no permitido")
         break;
-}
+} */
