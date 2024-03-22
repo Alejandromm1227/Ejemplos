@@ -53,7 +53,7 @@ if (isNaN(num1) || isNaN(num2)) {
  
 // programa q reciba un numero y diga si es positivo, negativo o es cero.
 
-let num1 = prompt("Ingrese un numero: ");
+/* let num1 = prompt("Ingrese un numero: ");
 if (isNaN(num1)) {
     console.log("Error! ingrese un valor numerico");
 } else {
@@ -66,5 +66,5 @@ if (isNaN(num1)) {
     } {
         
     }
-}
+} */
 
